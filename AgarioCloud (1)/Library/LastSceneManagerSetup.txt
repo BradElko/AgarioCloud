@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/Uvozi/Documents/Unity/AgarioCloud/Assets/_Scenes/AgarCloud.unity
+  isLoaded: 1
+  isActive: 1
